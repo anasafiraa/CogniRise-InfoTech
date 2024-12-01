@@ -143,14 +143,14 @@ TeePublic's platform, with its diverse fashion collection, provides the context 
 ### Insight
 
 1. Sentiment Distribution
-  - Most of the reviews (around 82.4%) have a happy label, indicating a positive customer experience with TeePublic's products and services.
+  - Most of the reviews (around 80%) have a happy label, indicating a positive customer experience with TeePublic's products and services.
   - In contrast, reviews with bad experience labels only account for about 17.6%, indicating a small percentage of dissatisfied customers.
 
 2. Model Performance
   - Confusion Matrix shows:
     - The model successfully classified 45,086 happy reviews correctly, with only 1,329 reviews misclassified as bad experiences.
     - Of the bad experience reviews, 6,680 were correctly classified, while 2,525 were incorrectly classified as happy.
-  - Overall Accuracy: 94.3%.
+  - Overall Accuracy: 93%.
   - Precision, Recall, and F1-Score for both classes show that the model is quite reliable in distinguishing between positive and negative reviews.
 
 3. Sentiment Polarization
